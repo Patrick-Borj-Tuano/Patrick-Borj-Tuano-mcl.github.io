@@ -347,8 +347,8 @@ article.icon{
 
 .project-img{
     border-radius: 2rem;
-    width:90%;
-    height: 90%;
+    width:50%;
+    height: 50%;
 }
 
 .project-title{
@@ -359,6 +359,12 @@ article.icon{
     color:black;
     border-color: rgb(163,163,163);
 }
+
+/* INTEREST */
+#interest{
+    position:relative;
+}
+
 
 /* Contact */
 
