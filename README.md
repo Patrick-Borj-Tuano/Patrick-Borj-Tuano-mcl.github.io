@@ -39,6 +39,11 @@
 
 > Finally, the `<footer>` section contains a navigation bar with links to different sections of the webpage and a copyright notice. The navigation links are enclosed in a `<nav class="footer-nav">` and are styled as an unordered list `<ul class="nav-links">`. Each list item `<li>` corresponds to a specific section, and the copyright notice is displayed using a `<p>` tag.
 
+> In the style.css file, I utilized various CSS selectors to customize the appearance of HTML elements. Broadly, I employed selectors targeting all tags, which have a global impact on styling. For more specific styling, I used selectors for individual IDs, honing in on particular elements. Additionally, I applied class selectors, allowing me to style multiple elements that share the same class. By strategically implementing these CSS selectors, I achieved a cohesive and visually appealing design for different elements within the HTML file.
+
+> I used Flexbox for different divs and IDs so that the content of the website adjusts seamlessly when opened on a phone, laptop, or computer. Additionally, I implemented media queries, which can be found in the `mediaqueries.css` file, to handle this responsiveness. Media queries allow for the application of specific styles based on the device's screen width, ensuring a consistent and user-friendly experience across various platforms.
+
+> I incorporated animations in the emoji section of the website. The emoji becomes interactive when hovered over, changing its expression. Additionally, the eyes of the emoji follow the user's mouse movements, creating a dynamic and engaging effect. **However, it's worth noting that there's a bug in the mouse tracking feature, as it currently only follows within a limited area. I am actively working on resolving this issue to improve the overall user experience.**
 
 
 # How I Accomplished Design Criteria
@@ -121,3 +126,13 @@
 
 # How I Accomplished Deployment Criteria
 > I successfully deployed my HTML file using GitHub's private content feature, known as GitHub Pages. This allowed me to make my website accessible to the public. By leveraging GitHub Pages, I made my HTML file visible on the internet, turning it into a live website that others can visit. This deployment method provides a convenient and straightforward way to share and showcase web content.
+
+# Insights that I gathered while accomplishing Lecture and Guided Exercises
+> While completing the lecture and guided exercises, I have realized that web development is incredibly important, especially in today's age. A website serves as a platform to showcase one's skills, enabling better self-promotion compared to others. I've also come to understand that schools and universities typically teach only the basics. To become a proficient programmer in the future, I need to dedicate personal effort and strive to enhance my skills beyond the fundamentals. This involves learning how to read documentation effectively and using my time wisely to practice regularly, thereby refining my programming skills and logical thinking.
+
+# Struggles that I encountered while accomplishing Lecture and Guided Exercises
+> While going through the lectures and guided exercises, I hit a bit of a roadblock due to the overwhelming amount of information I had to grasp. Trying to learn three languages with different uses and syntax in a short time is a bit much for me. While the basic concepts are easy, the idea of reaching a high level of proficiency feels challenging and makes my brain ache with all the information. Nevertheless, I won't give up, even if I end up progressing slower than others.
+
+# How I could Improve my Website
+
+> To make my website better, I'm thinking of adding cool stuff like moving things or interactive parts to make it more interesting. I also want to make sure it looks good on both computers and phones. I'll keep updating it with new things I do, so it stays current. Plus, I'm hoping to add achievements I get in college to show my progress. And, if people give feedback, I'll use that to make it even better and more like what they want. Overall, I want my website to be fun and easy for everyone to check out and see what I'm up to!
