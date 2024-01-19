@@ -11,7 +11,7 @@
  + <body> - Body of the document
  + <nav> - Navigation section
  + <div> - Division container
- + <ul> - Unordered list
+ + <ul> - (Unordered list)
  + <li> - List item
  + <a> - Anchor (hyperlink)
  + <section> - Section container
