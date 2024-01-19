@@ -120,5 +120,4 @@
 >  To make my website stand out creatively, I played around with cool colors, fonts, and pictures. I wanted it to look interesting and modern, so I used different layouts and added things you can click on. I made sure everything looks good together and stays the same style throughout the whole website. The goal was to make it not just informative but also cool to look at, so people remember it.
 
 # How I Accomplished Deployment Criteria
-> 
-I successfully deployed my HTML file using GitHub's private content feature, known as GitHub Pages. This allowed me to make my website accessible to the public. By leveraging GitHub Pages, I made my HTML file visible on the internet, turning it into a live website that others can visit. This deployment method provides a convenient and straightforward way to share and showcase web content.
+> I successfully deployed my HTML file using GitHub's private content feature, known as GitHub Pages. This allowed me to make my website accessible to the public. By leveraging GitHub Pages, I made my HTML file visible on the internet, turning it into a live website that others can visit. This deployment method provides a convenient and straightforward way to share and showcase web content.
