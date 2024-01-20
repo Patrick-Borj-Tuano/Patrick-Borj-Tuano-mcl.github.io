@@ -431,6 +431,10 @@ footer p{
     position:relative;
 }
 
+#transition{
+    position:relative;
+}
+
 .face-container{
     background: #5d3800;
 }
@@ -497,3 +501,58 @@ footer p{
     background: #333;
     border-radius: 50%;
 }
+
+/* Mario */
+
+.grass, .sky, .road{
+    position: absolute;
+  }
+  
+  .sky{
+    height: 40%;
+    background: skyblue;
+  }
+  
+  .grass{
+    height: 30%;
+    background: seagreen;
+  }
+  
+  .road{
+    height: 30%;
+    background: dimgrey;
+    box-sizing: border-box;
+    border-top: 10px solid grey;
+    border-bottom: 10px solid grey;
+    width: 100%;
+  }
+  
+  .lines{
+    box-sizing: border-box;
+    border: 5px dashed #fff;
+    height: 0px;
+    width: 100%;
+    position: absolute;
+    top: 45%;
+  }
+  
+  /*// ELEMENTS TO ANIMATE //*/
+  .mario{
+    position: relative;
+    top: -40px;
+    left: 0px;
+    animation-name: drive;
+    animation-duration: 3s;
+    animation-fill-mode: both;
+    animation-iteration-count: infinite;
+  }
+  
+  .profile-image{
+    height: 500px;
+  }
+  
+  /*// KEYFRAMES //*/
+  @keyframes drive{
+    from{ transform: translateX(20%)}
+    to{ transform: translateX(1100px)}
+  }
